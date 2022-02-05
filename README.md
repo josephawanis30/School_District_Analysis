@@ -33,5 +33,4 @@ Scores by school type?
 ![School_Type_Summary](https://user-images.githubusercontent.com/94503395/152659910-e6a7f586-a305-4b23-bf74-564eb6b2342d.png)
 
 
-# Summary:
 

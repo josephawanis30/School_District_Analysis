@@ -18,7 +18,13 @@ How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade?
 The Scores droped from 91% to 65% after replacing the Math & Reading scores.  
-   
+![Math_Scores](https://user-images.githubusercontent.com/94503395/152660433-7ad74dca-492d-451d-b39d-bb1dd7488d91.png)
+
+![Reading](https://user-images.githubusercontent.com/94503395/152660468-3392b49e-11c4-4698-ab72-c20e27b2dfcd.png)
+
+
+
+
 Scores by school spending?
 
 ![School_Spending_Summary](https://user-images.githubusercontent.com/94503395/152659899-3ff4baea-653b-4a28-9010-639b87b64d99.png)

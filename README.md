@@ -1,6 +1,5 @@
 # School_District_Analysis
-# Overview of the school district analysis: Explain the purpose of this analysis.
-The purpose of this analysis is 
+# Overview of the school district analysis:
 
 # Results:
 

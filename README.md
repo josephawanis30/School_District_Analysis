@@ -20,13 +20,18 @@ Math and reading scores by grade?
 The Scores droped from 91% to 65% after replacing the Math & Reading scores.  
    
 Scores by school spending?
-![](images/School_Spending_Summary.png)
+
+![School_Spending_Summary](https://user-images.githubusercontent.com/94503395/152659899-3ff4baea-653b-4a28-9010-639b87b64d99.png)
+
 
 Scores by school size?
-![](images/School_Size_Summary.png) 
+
+![School_Size_Summary](https://user-images.githubusercontent.com/94503395/152659894-7c393b2b-83e4-43ea-bed8-b9791b800fe3.png)
 
 Scores by school type?
-![](images/School_type_summary.png)   
+
+![School_Type_Summary](https://user-images.githubusercontent.com/94503395/152659910-e6a7f586-a305-4b23-bf74-564eb6b2342d.png)
+
 
 # Summary:
 
